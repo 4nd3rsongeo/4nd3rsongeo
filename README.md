@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/4nd3rsongeo.png" width="150px" style="border-radius: 50%; margin-right: 30px; margin-bottom: 20px;">
+<!-- <img align="left" src="https://github.com/4nd3rsongeo.png" width="150px" style="border-radius: 50%; margin-right: 30px; margin-bottom: 20px;"> -->
 
 ## Hi there 👋
 
