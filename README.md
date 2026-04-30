@@ -45,7 +45,7 @@ Feel free to contribute or even enjoying the content available in public repos!!
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="30" /></td>
     
     <!-- Espaços vazios para alinhamento -->
-    <td colspan="5"></td>
+    
   </tr>
 </table>
 
