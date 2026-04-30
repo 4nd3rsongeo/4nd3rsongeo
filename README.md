@@ -44,22 +44,24 @@ Feel free to contribute or even enjoying the content available in public repos!!
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="30" /></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="30" /></td>
     
-    <!-- Espaços vazios para alinhamento -->
     
   </tr>
 </table>
 
+
 <br>
 
 <div align="center">
+  <!-- <a href="https://portfolio-inky-two-98.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2"></a> -->
+  <a href="https://portfolio-inky-two-98.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23663399?style=for-the-badge&logo=konva&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-miyashita-7467322b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:andsht@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/4nd3rsongeo" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
----
+##
 
-### Contribution Snake
+### It ain't about how hard u hit ... it's about u get hit and keep moving foward!!!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4nd3rsongeo/4nd3rsongeo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/4nd3rsongeo/4nd3rsongeo/output/github-contribution-grid-snake.svg">
